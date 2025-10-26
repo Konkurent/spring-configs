@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:5432/portal?useSSL=false
+    username: postgres
+    password: test1
+    hikari:
+      schema: portal1
