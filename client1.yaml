@@ -5,3 +5,8 @@ spring:
     password: test1
     hikari:
       schema: portal1
+custom:
+  config: 
+    prop1: test1
+    prop2: test2
+    prop3: test3
